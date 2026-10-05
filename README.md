@@ -54,7 +54,7 @@ Actualmente busco una empresa donde realizar mis **prácticas curriculares a par
 - 🟡 **AWS Certified Cloud Practitioner** — preparación para examen
 - 🟡 **CompTIA Security+** — en preparación
 - ✅ **TryHackMe SOC Level 1**
-- ✅ **TryHackMe Security Engineer**
+- ✅ **TryHackMe Cyber Security 101 (SEC1)**
 - ✅ **CFGM Sistemas Microinformáticos y Redes**
 - 🟡 **CFGS Desarrollo de Aplicaciones Multiplataforma** — en curso
 
